@@ -1,5 +1,0 @@
-streamlit
-pdfplumber
-pandas
-xlsxwriter
-plotly
